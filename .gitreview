@@ -1,0 +1,4 @@
+[gerrit]
+host=http://139.196.179.121:8080
+port=29418
+project=gerrit-repo1.gitk
